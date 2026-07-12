@@ -160,12 +160,13 @@ The application displays:
 
 ---
 
-## 👩‍💻 Team
+## 👩‍💻 Team - ProX
 
 **HackZen 2026 Open Challenge**
 
 - Kalaiyarasi K
-- *(Add your teammates here)*
+- Aruna T
+- Induja S
 
 ---
 
